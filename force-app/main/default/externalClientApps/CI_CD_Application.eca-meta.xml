@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>gauravjangid@cyntexa.com</contactEmail>
+    <distributionState>Packaged</distributionState>
+    <isProtected>false</isProtected>
+    <label>CI CD Application</label>
+    <orgScopedExternalApp>00DQy00000G1t69:CI_CD_Application</orgScopedExternalApp>
+</ExternalClientApplication>
